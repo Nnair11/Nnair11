@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Nnair11
+- 👋 Hi, I’m NNair
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning python/excel
